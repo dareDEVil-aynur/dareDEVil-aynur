@@ -2,8 +2,7 @@
 
 - 🖥️ Full Stack Software Engineer at **Treon**
 - 🎓 Student at **Tampere University**, Tampere, Finland 🇫🇮
-- 🌐 Check out my website [here](https://yourwebsite.com)
-- 📧 Reach out via [aynurrahman3310@gmail.com](mailto:aynurrahman3310@gmail.com) or Telegram [@aynur_handle](https://t.me/aynur_handle)
+- 📧 Reach out via [aynurrahman3310@gmail.com](mailto:aynurrahman3310@gmail.com) or Telegram [@aynur_rahman](https://t.me/aynur_rahman) or LinkedIn [aynur-rahman](https://www.linkedin.com/in/aynur-rahman/)
 
 ## 🛠️ Technologies I use:
 ## Languages:
