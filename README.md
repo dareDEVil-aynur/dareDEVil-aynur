@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @dareDEVil-aynur
+# 👋 Hi, I’m Aynur
 
 Welcome to my GitHub! I'm Aynur, a passionate full-stack developer diving deep into the world of technology to build scalable, impactful solutions. With a penchant for both backend and frontend technologies, I'm on a journey to explore the intricacies of software development and contribute to the open-source community.
 
