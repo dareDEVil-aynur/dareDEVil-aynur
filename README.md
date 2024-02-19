@@ -1,47 +1,30 @@
-# 👋 Hi, I’m Aynur Rahman Talukdar
+![Header](https://raw.githubusercontent.com/username/header-image-path/main/header.png)
 
-Welcome to my GitHub! I'm a Full Stack Software Engineer from Tampere, Finland, with a passion for building and scaling applications that impact users globally. I thrive on tackling challenging problems and am committed to continuous learning and improvement.
+# Hi, I'm Aynur Rahman Talukdar 👋
 
-## 🚀 Technical Skills
-Here's a quick overview of the technologies I work with:
+- 🎓 Student at **Tampere University**, Tampere, Finland 🇫🇮
+- 🌐 Check out my website [here](https://yourwebsite.com)
+- 📧 Reach out via [aynurrahman3310@gmail.com](mailto:aynurrahman3310@gmail.com) or Telegram [@aynur_handle](https://t.me/aynur_handle)
 
-- **Languages:** TypeScript, JavaScript, Python, C++, Java, Rust
-- **Frameworks & Libraries:** React, Redux, Flask, Express.js, Spring Boot, CytoscapeJS, D3, Material-UI (MUI)
-- **Databases & Tools:** PostgreSQL, MongoDB, Redis, InfluxDB, Prisma ORM
-- **Testing Tools:** Jest, Cypress, SuperTest, Robot Framework
-- **Infrastructure & DevOps:** AWS, Docker, Jenkins, Kubernetes
+## 📈 Activities on GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dareDEVil-aynur&show_icons=true&theme=dark)
 
-## 👀 I’m interested in
-- Backend systems' architecture and scalability
-- Frontend development with a focus on user experience
-- DevOps practices for continuous integration and deployment
-- The intersection of cloud computing and IoT for smarter solutions
-
-## 🌱 I’m currently learning
-- Advanced patterns in microservices architecture
-- Enhanced state management techniques in complex frontends
-- The nuances of cloud-native development across AWS, Azure, and GCP
-- Strategies for effective team leadership in technology projects
-
-## 💞️ I’m looking to collaborate on
-- Projects focused on environmental sustainability and social impact
-- Open-source tools that facilitate learning for new developers
-- Advanced web applications that push the boundaries of user interaction
-
-## 📫 How to reach me
-Connect with me for collaborations or to exchange ideas:
-- **Email:** [aynurrahman3310@gmail.com](mailto:aynurrahman3310@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/aynur-rahman/](https://www.linkedin.com/in/aynur-rahman/)
-
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun fact
-Outside of coding, you'll find me exploring the world through cooking. I believe in the power of a good meal to bring people together, much like a well-written code.
-
----
-
-Diving into coding challenges or contributing to projects that aim for a meaningful impact fuels my day. If you're passionate about technology and its potential to change the world, let's connect and make something incredible together!
+## 🛠️ Technologies I use:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-black?style=flat-square&logo=aws-lambda)
 
 <!---
 dareDEVil-aynur/dareDEVil-aynur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
