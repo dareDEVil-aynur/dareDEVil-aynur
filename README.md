@@ -1,7 +1,7 @@
 # Hi, I'm Aynur Rahman Talukdar 👋
 
 - 🖥️ Full Stack Software Engineer at **Treon**
-- 🎓 BSc (Tech) at **Tampere University**
+- 🎓 **Tampere University**
 - 📧 Reach out via [aynurrahman3310@gmail.com](mailto:aynurrahman3310@gmail.com) or Telegram [@aynur_rahman](https://t.me/aynur_rahman) or LinkedIn [aynur-rahman](https://www.linkedin.com/in/aynur-rahman/)
 
 ## 🛠️ Technologies I use:
